@@ -1,1 +1,1 @@
-- <p>Restaurant Ratings with Machine Learning!!</p>
+> Restaurant Ratings with Machine Learning!!
