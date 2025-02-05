@@ -5,7 +5,7 @@ Restaurant ratings play a crucial role in customer decision-making. This project
 
 ---
 
-## 🎯 Objectives
+### 🎯 Objectives
 - 📊 **Analyze customer reviews** to identify sentiment and key factors affecting ratings.
 - 🤖 **Implement machine learning models** to predict restaurant ratings.
 - 🏆 **Enhance restaurant recommendations** by leveraging data insights.
