@@ -12,7 +12,7 @@ Restaurant ratings play a crucial role in customer decision-making. This project
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 - **Programming Language:** 🐍 Python  
 - **Libraries & Frameworks:**  
   - 🏋️‍♂️ `scikit-learn` - Machine Learning models  
