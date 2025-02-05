@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Ratings with Machine Learning 🤖
+## 🍽️ Restaurant Ratings with Machine Learning 🤖
 
 ## 📌 Introduction
 Restaurant ratings play a crucial role in customer decision-making. This project utilizes **Machine Learning (ML)** to analyze customer reviews and predict restaurant ratings based on various factors.
