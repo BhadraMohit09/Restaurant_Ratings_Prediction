@@ -25,7 +25,7 @@ Restaurant ratings play a crucial role in customer decision-making. This project
 
 ---
 
-## 📌 Dataset
+### 📌 Dataset
 - 🍛 **Restaurant reviews dataset** from Kaggle or scraped from platforms like Zomato, Yelp, Google Reviews.
 - 📜 Features:
   - 🏠 `Restaurant Name`
