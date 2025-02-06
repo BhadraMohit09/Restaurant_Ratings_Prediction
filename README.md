@@ -55,7 +55,7 @@ Restaurant ratings play a crucial role in customer decision-making. This project
 
 ---
 
-## 📌 Evaluation Metrics
+### 📌 Evaluation Metrics
 - ✅ **RMSE (Root Mean Squared Error)**
 - ✅ **Accuracy & F1 Score (For classification models)**
 - ✅ **Sentiment Score Analysis (NLP)**
